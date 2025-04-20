@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PowerMindBody</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <header class="bg-white shadow p-4">
+    <h1 class="text-3xl font-bold text-center">PowerMindBody</h1>
+    <p class="text-center text-sm text-gray-600">Unlock Your Potential — Mind, Body & Energy</p>
+  </header>
+
+  <section class="p-6 text-center">
+    <h2 class="text-2xl font-semibold mb-4">Featured Product</h2>
+    <div class="bg-white rounded-xl shadow-md max-w-md mx-auto p-4">
+      <img src="https://via.placeholder.com/400x250" alt="Product" class="rounded-md mb-4" />
+      <h3 class="text-xl font-bold">Ultimate Brain Booster</h3>
+      <p class="text-sm my-2">Enhance focus, memory, and clarity with this powerful supplement.</p>
+      <a href="https://www.digistore24.com/redir/123456/YourUsername/" class="inline-block bg-blue-600 text-white px-4 py-2 rounded mt-3 hover:bg-blue-700">Buy Now</a>
+    </div>
+  </section>
+
+  <footer class="bg-gray-200 text-center p-4 mt-10">
+    <p>&copy; 2025 PowerMindBody. All rights reserved.</p>
+  </footer>
+</body>
+</html>
